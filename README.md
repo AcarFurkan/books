@@ -7,3 +7,6 @@
 ### 3- [Probability and Statistics](https://github.com/AcarFurkan/books/blob/main/Introduction%20to%20Probability%20and%20Statistics.pdf)
 
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |

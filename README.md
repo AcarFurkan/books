@@ -8,11 +8,6 @@
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | Attempt | Monday | Tuesday | Wednesday | Thursday | Friday | 
 | :---:   | :---:  | :---:   |  :---:    |  :---:   |  :---: | 
 | Seconds dsfgsdfhdhdhsdhsd| 301    | 283     |  301      |  283     |  301   | 
